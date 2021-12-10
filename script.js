@@ -14,7 +14,7 @@ $(document).ready(function() {
   // For each column representing a data series, define its name and color
   var SERIES = [  
     {
-      column: 'Aug2019 Home Value',
+      column: 'Aug 2019 Home Value',
       name: 'Aug 2019 Home Value',
       color: 'grey'
     },
@@ -26,7 +26,7 @@ $(document).ready(function() {
   ];
 
   // x-axis label and label in tooltip
-  var X_AXIS = 'Years';
+  var X_AXIS = 'States';
 
   // y-axis label, label in tooltip
   var Y_AXIS = 'Home Values';
